@@ -1,0 +1,13 @@
+1. Leia a imagem e mostre-a numa janela
+2. Concatene a imagem com a sua rotação (qualquer rotação, qualquer posicionamento pra concatenar)
+3. Printa-la na escala cinza e na escala hsv
+4. Desenhe em uma tela preta o contorno de um retangulo azul que ocupe o primeiro quadrante da tela,
+um circulo vermelho dentro dele, uma elipse verde no segundo quadrante, uma reta amarela correspondente a y=-x 
+e o texto "RoboIme" ocupando todo o canto superior da tela.
+5. Mescle a imagem da questao 4 com alguma da questao 3
+6. Faça uma mascara para o laranja
+7. Faça um algoritmo que mostre uma mascara da imagem para determinado valor de HSV, encontrado através de trackbars criadas
+pelo próprio algoritmo
+8. aplicar a funçao de achar as bordas na mascara
+9. detectar as bordas fechadas dentro da imagem (objeto laranja)
+10. desenhar um retangulo em volta da borda fechada e escrever o nome do objeto na imagem original
